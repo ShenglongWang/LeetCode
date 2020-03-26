@@ -9,7 +9,7 @@ class Solution:
     '''
     Solution1:
     解题思路:
-    
+
     '''
     def flatten(self, root: TreeNode) -> None:
         """
